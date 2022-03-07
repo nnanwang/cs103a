@@ -1,6 +1,6 @@
 # CPA01 - Python Data Analysis II
 ### due Friday 3/11 11am on mastery.cs.brandeis.edu 
-CS103a-Programs PIN:7297444
+:star2: CS103a-Programs PIN:7297444 :star2:
 
 ## Motivation 
 Data Science is one of the fastest growing areas in Computer Science and indeed in the world workforce. 
